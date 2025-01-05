@@ -1,5 +1,5 @@
 ## Acerca de mí
-> ¡Hola! Soy Derek M., un loco que dedica la mayor parte del día a crear, idear y programar bots de Discord, especialmente para comunidades grandes, mientras estudio.
+> ¡Hola! Soy Kered, dedico la mayor parte del día a administrar servidores, además de crear, idear y programar bots de Discord, especialmente para comunidades grandes, mientras estudio.
 
 ## Mi expertise
 > [![Node.Js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()<br/>
