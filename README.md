@@ -7,11 +7,11 @@
 > [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
 > [![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()<br/>
 
-## Bots en Discord
-> Proyectos actuales de bots que estoy desarrollando. No incluyo bots eliminados o abandonados.
+## Proyectos en Discord
+> Proyectos activos de servidores en los que tengo algún cargo. No incluyo proyectos eliminados o abandonados.
 
-- [UruBot](https://discord.gg/urugodd) - Programador Principal
-- [xCryBot](https://discord.gg/xcry) - Programador Principal
-- [RiversBot](https://discord.gg/rivers) - Programador Principal
-- [SpainRP Bot](https://discord.gg/spainrp) - Programador Principal
-- [ESP TEAM](https://discord.gg/valorant-esp-547467712540966913) - Programador Principal
+- [xCry](https://discord.gg/xcry) - Discord Manager & Main Dev
+- [Urugodd](https://discord.gg/urugodd) - Main Admin & Unique Dev
+- [Valorant ESP](https://discord.gg/valorant-esp-547467712540966913) - Main Dev
+- [Rivers](https://discord.gg/rivers) - Unique Dev
+- [SpainRP](https://discord.gg/spainrp) - Unique Dev
