@@ -15,3 +15,7 @@
 - [Valorant ESP](https://discord.gg/valorant-esp-547467712540966913) - Main Dev
 - [Rivers](https://discord.gg/rivers) - Unique Dev
 - [SpainRP](https://discord.gg/spainrp) - Unique Dev
+- [Rickyedit](https://discord.gg/rickyedit) - Discord Dev
+
+---
+> *"Cause Fridays are always the start of the time of my life"* — Mac Miller  
