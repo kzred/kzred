@@ -11,7 +11,6 @@
 > Proyectos activos de servidores en los que tengo algún cargo. No incluyo proyectos eliminados o abandonados.
 
 - [xCry](https://discord.gg/xcry) - Discord Manager & Main Dev
-- [Urugodd](https://discord.gg/urugodd) - Main Admin & Unique Dev
 - [Valorant ESP](https://discord.gg/valorant-esp-547467712540966913) - Main Dev
 - [Rivers](https://discord.gg/rivers) - Unique Dev
 - [SpainRP](https://discord.gg/spainrp) - Unique Dev
